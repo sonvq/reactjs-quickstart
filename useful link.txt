@@ -1,0 +1,8 @@
+List of available supported events
+https://facebook.github.io/react/docs/events.html#supported-events
+
+Learn reactjs course
+https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-event-listeners?action=lesson_resume
+
+Reactjs tutorial
+https://www.tutorialspoint.com/reactjs/reactjs_jsx.htm
